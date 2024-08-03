@@ -21,6 +21,16 @@ This repository contains the source code for a responsive and user-friendly lead
 
 To use this lead generation page, simply copy and paste the code into your project. The page will be ready to use immediately.
 
+## Lead Capture Forms
+
+This lead generation page includes various forms to capture leads:
+
+- **Form**: Collects basic contact information such as name, email,phone and message.
+
+## Modal for Lead Capture
+
+A modal is included to capture leads in a non-intrusive manner. The modal can be triggered by various user actions (e.g., clicking a button, scrolling to a certain point) and can be customized to include any of the lead capture forms mentioned above.
+
 ## Contributions
 
 Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
